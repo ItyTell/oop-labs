@@ -1,0 +1,6 @@
+﻿  kirpatrik.cpp
+C:\c++ code\LABA\Keyl-Kirpatrik\kilpatric\kilpatric\kirpatrik.cpp(34,39): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++ code\LABA\Keyl-Kirpatrik\kilpatric\kilpatric\kirpatrik.cpp(34,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++ code\LABA\Keyl-Kirpatrik\kilpatric\kilpatric\kirpatrik.cpp(62,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\c++ code\LABA\Keyl-Kirpatrik\kilpatric\kilpatric\kirpatrik.cpp(62,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  kilpatric.vcxproj -> C:\c++ code\LABA\Keyl-Kirpatrik\kilpatric\x64\Debug\kilpatric.exe

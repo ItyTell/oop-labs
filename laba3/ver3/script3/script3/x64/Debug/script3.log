@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\c++\last_laba\script3\script3\Source.cpp(40,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++\last_laba\script3\script3\Source.cpp(40,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++\last_laba\script3\script3\Source.cpp(82,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\c++\last_laba\script3\script3\Source.cpp(82,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\c++\last_laba\script3\script3\Source.cpp(98,12): warning C4101: 'a': unreferenced local variable
+C:\c++\last_laba\script3\script3\Source.cpp(98,15): warning C4101: 'b': unreferenced local variable
+  script3.vcxproj -> C:\c++\last_laba\script3\x64\Debug\script3.exe

@@ -1,0 +1,18 @@
+		Matrix P1 = (A21 + A22);
+        Matrix S2 = (P1 - A11);
+        Matrix S3 = (A11 - A21);
+        Matrix S4 = (A12 - S2);
+        Matrix S5 = (B12 - B11);
+        Matrix S6 = (B22 - S5);
+        Matrix S7 = (B22 - B12);
+        Matrix S8 = (S6 - B21);
+        Matrix P1 = S2.vinigrad(S6);
+        Matrix P2 = A11.vinigrad(B11);
+        Matrix P3 = A12.vinigrad(B21);
+        Matrix P4 = S3.vinigrad(S7);
+        Matrix P5 = P1.vinigrad(S5);
+        Matrix P6 = S4.vinigrad(B22);
+        Matrix P7 = A22.vinigrad(S8);
+        Matrix T1 = P1 + P2;
+        Matrix T2 = T1 + P4;
+        return (P2 + P3).conc(T1 + P5 + P6, T2 - P7, T2 + P5);

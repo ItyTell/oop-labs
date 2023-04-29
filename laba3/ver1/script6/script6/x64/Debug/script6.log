@@ -1,0 +1,8 @@
+﻿  script.cpp
+C:\c++\LABA\script6\script6\script.cpp(34,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++\LABA\script6\script6\script.cpp(34,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++\LABA\script6\script6\script.cpp(53,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\c++\LABA\script6\script6\script.cpp(112,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\c++\LABA\script6\script6\script.cpp(112,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\c++\LABA\script6\script6\script.cpp(83): warning C4172: returning address of local variable or temporary: res
+  script6.vcxproj -> C:\c++\LABA\script6\x64\Debug\script6.exe

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "83ab528a-2dcf-4545-a982-6bd02670c3e7": {
+      "ProjectGuid": "83ab528a-2dcf-4545-a982-6bd02670c3e7",
+      "DisplayName": "LABA",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,7 @@
+﻿  script.cpp
+C:\c++\LABA\endrew_djarwis\endrew_djarwis\script.cpp(33,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++\LABA\endrew_djarwis\endrew_djarwis\script.cpp(33,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++\LABA\endrew_djarwis\endrew_djarwis\script.cpp(49,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\c++\LABA\endrew_djarwis\endrew_djarwis\script.cpp(84,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\c++\LABA\endrew_djarwis\endrew_djarwis\script.cpp(84,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  endrew_djarwis.vcxproj -> C:\c++\LABA\endrew_djarwis\x64\Debug\endrew_djarwis.exe

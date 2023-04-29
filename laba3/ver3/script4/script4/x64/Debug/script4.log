@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\c++\last_laba\script4\script4\Source.cpp(34,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++\last_laba\script4\script4\Source.cpp(34,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\c++\last_laba\script4\script4\Source.cpp(74,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\c++\last_laba\script4\script4\Source.cpp(74,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  script4.vcxproj -> C:\c++\last_laba\script4\x64\Debug\script4.exe
